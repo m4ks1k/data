@@ -220,7 +220,7 @@ ban	бан
 banana	банан
 band	группа
 bank	банк
-bank	банк
+bank	берег
 bar	бар
 barrier	барьер
 base	база
@@ -238,7 +238,7 @@ be	быть
 beach	пляж
 bean	боб
 bear	медведь
-bear	медведь
+bear	носить
 beat	бить
 beautiful	красивый
 beauty	красота
@@ -371,8 +371,8 @@ camp	лагерь
 campaign	кампания
 camping	кемпинг
 campus	кампус
-can1	can1
-can2	протокол can2
+can	мочь
+can	жестяная банка
 cancel	отменять
 cancer	рак
 candidate	кандидат
@@ -471,8 +471,9 @@ client	клиент
 climate	климат
 climb	взбираться
 clock	часы
-close1	close1
-close2	close2
+close	близко
+close	близкий
+close	закрывать
 closed	закрытый
 closely	тесно
 cloth	ткань
@@ -568,7 +569,7 @@ contact	контакт
 contain	содержать
 container	контейнер
 contemporary	современный
-content1	content1
+content	содержание
 contest	соревнование
 context	контекст
 continent	континент
@@ -1452,7 +1453,7 @@ kid	ребенок
 kill	убивать
 killing	убийство
 kilometre	километр
-kind	добрый
+kind	вид
 kind	добрый
 king	король
 kiss	целовать
@@ -1476,8 +1477,8 @@ language	язык
 laptop	ноутбук
 large	большой
 largely	значительно
-last1	last1
-last1	last1
+last	последний
+last	длиться
 late	поздний
 later	позже
 latest	самый последний
@@ -1489,7 +1490,7 @@ lawyer	юрист
 lay	класть
 layer	слой
 lazy	ленивый
-lead1	lead1
+lead	вести
 leader	лидер
 leadership	руководство
 leading	ведущий
@@ -1516,15 +1517,15 @@ letter	письмо
 level	уровень
 library	библиотека
 licence	лицензия
-lie1	ложь1
-lie2	ложь2
+lie	ложь
+lie	лгать
 life	жизнь
 lifestyle	образ жизни
 lift	поднимать
 light	свет
-light	свет
-like	любить
-like	любить
+light	легкий
+like	нравиться
+like	подобный
 likely	скорее всего
 limit	предел
 limited	ограниченный
@@ -1538,8 +1539,8 @@ listen	слушать
 listener	слушатель
 literature	литература
 little	маленький
-live1	live1
-live2	live2
+live	живой
+live	жить
 lively	оживленный
 living	живущий
 load	загружать
@@ -1551,7 +1552,7 @@ location	местоположение
 lock	замок
 logical	логический
 lonely	одинокий
-long1	long1 не
+long	длинный
 long-term	долгосрочный
 look	смотреть
 loose	свободный
@@ -1602,7 +1603,7 @@ marry	жениться
 mass	масса
 massive	массивный
 master	мастер
-match	совпадение
+match	соответствовать
 matching	соответствие
 material	материал
 mathematics	математика
@@ -1648,13 +1649,13 @@ milk	молоко
 million	миллион
 mind	ум
 mine	мой
-mine	мой
+mine	шахта
 mineral	минерал
 minimum	минимальный
 minister	министр
 minor	незначительный
 minority	меньшинство
-minute1	минута 1
+minute	минута
 mirror	зеркало
 miss	мисс
 missing	потерянный
@@ -1897,7 +1898,7 @@ peaceful	мирный
 pen	ручка
 pencil	карандаш
 penny	пенни
-pension1	pension1
+pension	пенсия
 people	люди
 pepper	перец
 per	по
@@ -2113,7 +2114,7 @@ quite	довольно
 quotation	цитата
 quote	цитата
 race	гонка
-race	гонка
+race	раса
 racing	гоночный
 radio	радио
 railway	железнодорожный
@@ -2162,7 +2163,7 @@ reduction	сокращение
 refer	относиться
 reference	ссылка
 reflect	отражать
-refuse1	отказ1
+refuse	отказаться
 regard	уважение
 region	регион
 regional	региональный
@@ -2224,7 +2225,7 @@ response	ответ
 responsibility	ответственность
 responsible	ответственный
 rest	остальное
-rest	остальное
+rest	отдыхать
 restaurant	ресторан
 result	результат
 retain	удерживать
@@ -2242,15 +2243,15 @@ rich	богатый
 rid	избавлять
 ride	ездить
 right	право
-ring1	ring1
-ring2	ring2
+ring	кольцо
+ring	звонить
 rise	подъем
 risk	рисковать
 river	река
 road	дорога
 robot	робот
 rock	рок
-rock	рок
+rock	скала
 role	роль
 roll	рулон
 romantic	романтический
@@ -2262,7 +2263,7 @@ rough	грубый
 round	круглый
 route	маршрут
 routine	рутина
-row1	строка 1
+row	строка
 royal	королевский
 rub	тереть
 rubber	резинка
@@ -2319,7 +2320,7 @@ search	поиск
 season	сезон
 seat	сиденье
 second	второй
-second	второй
+second	секунда
 secondary	вторичный
 secondly	во-вторых
 secret	секрет
@@ -2353,7 +2354,7 @@ serve	обслуживать
 service	обслуживание
 session	сессия
 set	набор
-set	набор
+set	устанавливать
 setting	установка
 settle	селиться
 seven	семь
@@ -2540,7 +2541,7 @@ steal	красть
 steel	сталь
 steep	крутой
 step	шаг
-stick	придерживаться
+stick	палка
 stick	придерживаться
 sticky	липкий
 stiff	жесткий
@@ -2645,8 +2646,8 @@ teach	учить
 teacher	учитель
 teaching	обучение
 team	команда
-tear1	tear1
-tear2	tear2
+tear	рвать
+tear	слеза
 technical	технический
 technique	техника
 technology	технология
@@ -2834,8 +2835,8 @@ urban	городской
 urge	побуждать
 us	нам
 use	использовать
-used1	used1
-used2	used2
+used	используемый
+used	старый
 used to	привык
 useful	полезный
 user	пользователь
@@ -2941,8 +2942,8 @@ wildlife	живая природа
 will	будет
 willing	готовы
 win	выиграть
-wind1	ветер1
-wind2	ветер2
+wind	ветер
+wind	наматывать
 window	окно
 wine	вино
 wing	крыло
