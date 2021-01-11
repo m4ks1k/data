@@ -167,7 +167,7 @@ bargain	сделка
 barrel	бочка
 basement	подвал
 basket	корзина
-bass1	бас1
+bass	бас
 bat	летучая мышь
 battlefield	поле битвы
 bay	залив
@@ -208,7 +208,7 @@ boost	повышать
 bounce	подпрыгивать
 bound	связанный
 boundary	граница
-bow1	бантом1
+bow	лук
 breach	нарушение
 breakdown	разрушение
 breakthrough	прорыв
@@ -388,7 +388,7 @@ contemplate	созерцать
 contempt	презрение
 contend	бороться
 contender	претендент
-content2	content2
+content	содержимое
 contention	раздор
 continually	непрерывно
 contractor	подрядчик
@@ -1163,7 +1163,7 @@ minimal	минимальный
 minimize	минимизировать
 mining	добыча полезных ископаемых
 ministry	министерство
-minute2	minute2
+minute	мелкий
 miracle	чудо
 miserable	несчастный
 misery	нищета
@@ -1475,7 +1475,7 @@ recipient	получатель
 reckon	рассчитывать
 recognition	распознавание
 reconstruction	реконструкция
-recount1	пересчет1
+recount	пересчитывать
 recovery	восстановление
 recruit	набирать
 recruitment	набор персонала
